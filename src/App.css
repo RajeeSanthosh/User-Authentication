@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.appName {
+	color: #fff;
+}
+
+.logoutBtn {
+	margin: auto;
+}
+
+.userInfo {
+	background-color:aqua;
+	box-shadow: 5px 0px 0px black;
+	width: 35%;
+	padding: 20px;
+	border-radius: 6px;
+	font-weight: 600;
+}
